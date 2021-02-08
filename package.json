@@ -1,0 +1,19 @@
+{
+  "name": "demo-snakes-and-ladders",
+  "version": "1.0.0",
+  "description": "A demo of the snakes and ladders board game with socket.io and serverless",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WidgetKing/demo-snakes-and-ladders.git"
+  },
+  "author": "Tristan Ward",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WidgetKing/demo-snakes-and-ladders/issues"
+  },
+  "homepage": "https://github.com/WidgetKing/demo-snakes-and-ladders#readme"
+}
